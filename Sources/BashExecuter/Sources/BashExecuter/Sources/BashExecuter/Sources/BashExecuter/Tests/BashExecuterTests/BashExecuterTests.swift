@@ -1,5 +1,4 @@
 import XCTest
-@testable import BashExecuter
 
 final class BashExecuterTests: XCTestCase {
 
